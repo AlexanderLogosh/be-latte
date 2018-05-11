@@ -1,0 +1,26 @@
+@import "variables.scss";
+@import "mixins.scss";
+
+@import "scaffolding.scss";
+
+@import "global/fonts.scss";
+
+
+@import "blocks/visually-hidden.scss";
+@import "blocks/page-header.scss";
+@import "blocks/page-footer.scss";
+@import "blocks/ratings.scss";
+@import "blocks/ratings-block.scss";
+@import "blocks/btn.scss";
+@import "blocks/reviews.scss";
+@import "blocks/news.scss";
+
+@import "blocks/sidebar.scss";
+@import "blocks/subscribe-block.scss";
+@import "blocks/helpful-info-block.scss";
+@import "blocks/internal-page.scss";
+@import "blocks/review-form.scss";
+@import "blocks/rating-input.scss";
+@import "blocks/select.scss";
+@import "blocks/customer-rating.scss";
+@import "blocks/review-block.scss";
